@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://fitnessapplications.netlify.app',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://youtubee-clone-app.netlify.app',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://weatheer-applicationn.netlify.app',
     id: 2,
   },
   {
@@ -32,15 +32,24 @@ export const projects = [
     image: '/images/4.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://gpt3applicationn.netlify.app',
     id: 3,
+  },
+  {
+    title: 'WebRTC App',
+    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      image: '/images/5.jpg',
+      tags: ['React', 'WebRTC'],
+    source: 'https://google.com',
+    visit: 'https://hoobankmainproject.netlify.app',
+    id: 2,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2020, text: 'Started my student life', },
+  { year: 2020, text: 'Worked as a developer intern', },
+  { year: 2023, text: 'Finished my graduation', },
+  { year: 2024, text: 'Shared my projects with the world', },
+
 ];
